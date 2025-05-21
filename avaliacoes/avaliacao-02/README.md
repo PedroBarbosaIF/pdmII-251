@@ -1,7 +1,8 @@
 ![Alt text](printterminal.png) 
 
 # Avaliação-02
-## Ricardo Duarte Taveira
+## PROFESSOR: Ricardo Duarte Taveira
+## ALUNO: Pedro Henrique Alves Barbosa
 
 
 100 pontos

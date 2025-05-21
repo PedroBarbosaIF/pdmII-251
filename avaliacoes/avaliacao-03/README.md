@@ -1,7 +1,8 @@
-![Alt text](printterminal.png)
+![print_terminal](printterminal.png)
+![print_terminal2](printterminal2.png)
 
 # Avaliação-03
-## Ricardo Duarte Taveira
+## PROFESSOR: Ricardo Duarte Taveira
 ## ALUNO: Pedro Henrique Alves Barbosa
 
 Evidenciar a execução do exemplo  de isolates contido no github da disciplina https://github.com/ricdtaveira/mobdev-parte-01/blob/master/16-programacao-assincrona/16-isolates-03.dart.
