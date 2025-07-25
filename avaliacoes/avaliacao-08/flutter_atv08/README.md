@@ -1,16 +1,74 @@
-# flutter_atv08
+## Flutter Anime & Usuários App
 
-A new Flutter project.
+Este projeto é uma aplicação Flutter desenvolvida para a disciplina de PDM II, Avaliação 08. O app permite visualizar uma lista de animes e usuários, utilizando arquitetura organizada e boas práticas de desenvolvimento.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+### Funcionalidades
 
-A few resources to get you started if this is your first Flutter project:
+- Listagem de animes
+- Listagem de usuários
+- Consumo de API (serviço simulado)
+- Interface responsiva
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Estrutura de Pastas
+
+```
+lib/
+  main.dart                # Ponto de entrada do app
+  models/                  # Modelos de dados (Anime, Usuário)
+  screens/                 # Telas principais (Animes, Usuários)
+  services/                # Serviços para API e lógica de negócio
+assets/                    # Imagens e recursos estáticos
+test/                      # Testes automatizados
+```
+
+---
+
+### Como executar o projeto
+
+1. **Pré-requisitos:**
+   - Flutter instalado ([Guia oficial](https://docs.flutter.dev/get-started/install))
+   - Dart SDK
+2. **Instale as dependências:**
+   ```sh
+   flutter pub get
+   ```
+3. **Execute o app:**
+   ```sh
+   flutter run
+   ```
+   Você pode escolher o dispositivo (emulador ou físico) para rodar o app.
+
+---
+
+### Testes
+
+Para rodar os testes automatizados:
+
+```sh
+flutter test
+```
+
+---
+
+### Personalização
+
+- Adicione novos animes ou usuários editando os arquivos em `lib/models/`.
+- Modifique a interface nas telas em `lib/screens/`.
+
+---
+
+### Contato
+
+- **Autor:** Pedro
+- **Disciplina:** PDM II
+- **E-mail:** seuemail@exemplo.com
+
+---
+
+### Licença
+
+Este projeto é apenas para fins educacionais.
