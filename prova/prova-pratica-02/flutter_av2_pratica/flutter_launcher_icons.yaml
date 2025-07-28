@@ -1,0 +1,13 @@
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "imagens/iffoto.wepb"
+  web:
+    generate: true
+    image_path: "imagens/iffoto.wepb"
+  windows:
+    generate: true
+    image_path: "imagens/iffoto.wepb"
+  macos:
+    generate: true
+    image_path: "imagens/iffoto.wepb"
